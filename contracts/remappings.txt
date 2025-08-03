@@ -1,0 +1,13 @@
+forge-std/=lib/forge-std/src/
+solidity-utils/=lib/solidity-utils/contracts/
+limit-order-protocol/=lib/limit-order-protocol/contracts/
+@1inch/limit-order-protocol-contract/=lib/cross-chain-swap/lib/limit-order-protocol/
+@1inch/limit-order-settlement/=lib/cross-chain-swap/lib/limit-order-settlement/
+@1inch/solidity-utils/=lib/cross-chain-swap/lib/solidity-utils/
+@openzeppelin/contracts/=lib/cross-chain-swap/lib/openzeppelin-contracts/contracts/
+cross-chain-swap/=lib/cross-chain-swap/
+ds-test/=lib/cross-chain-swap/lib/forge-std/lib/ds-test/src/
+erc4626-tests/=lib/cross-chain-swap/lib/openzeppelin-contracts/lib/erc4626-tests/
+limit-order-settlement/=lib/cross-chain-swap/lib/limit-order-settlement/
+murky/=lib/cross-chain-swap/lib/murky/
+openzeppelin-contracts/=lib/cross-chain-swap/lib/openzeppelin-contracts/
